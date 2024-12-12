@@ -101,23 +101,6 @@ Dieses Projekt zielt darauf ab, eine benutzerdefinierte QA-Management-Software z
 7. **Frontend einrichten:**
     Öffne `app/templates/` und bearbeite die HTML-Dateien nach Bedarf. Tailwind CSS ist bereits integriert via CDN.
 
-## Nutzung
-
-1. **Registrierung und Anmeldung:**
-    - Besuche `/register`, um einen neuen Benutzer zu erstellen.
-    - Melde dich über `/login` an.
-
-2. **Projekte verwalten:**
-    - Erstelle neue Projekte und füge Module hinzu.
-
-3. **Testfälle erstellen und verwalten:**
-    - Erstelle, bearbeite und organisiere Testfälle innerhalb der Projekte.
-    - Weisen Sie Testfälle Testern zu und aktualisieren Sie deren Status.
-
-4. **Testpläne und Testläufe durchführen:**
-    - Plane Testläufe innerhalb von Testplänen und weise Testfälle und Tester zu.
-
-5. **Kommentare und Anhänge hinzufügen:**
     - Füge getrennte Kommentare und speichere Screenshots direkt in den Testfällen.
 
 6. **Berichte generieren und exportieren:**
